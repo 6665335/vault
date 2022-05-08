@@ -2,7 +2,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-    Title = "Plutonium Loader - Da hood",
+    Title = "Plutonium Loader - Pet Simulator X",
     Style = 3,
     SizeX = 350,
     SizeY = 350,
@@ -31,7 +31,7 @@ local gamescriptbutton1 = Tab1.Button({
         })
 
 
-        
+
 
         
 

@@ -2,7 +2,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-    Title = "Plutonium Loader - Da hood",
+    Title = "Plutonium Loader - Murder Mystery 2",
     Style = 3,
     SizeX = 350,
     SizeY = 350,

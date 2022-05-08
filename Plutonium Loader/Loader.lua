@@ -29,7 +29,7 @@ local function LoadScript(ScriptString)
     loadstring(game:HttpGet((ScriptString), true))()
 end
 
-if shitsngiggles[getgenv().UrbanKey] then
+if PlutoniumW[getgenv().UrbanKey] then
     if game.GameId == 286090429 then -- Arsenal
         LoadScript('https://raw.githubusercontent.com/Zapatron/scrpts/main/Plutonium%20Loader/Games/arsenal.lua')
         DiscordInviter("qqPFjvxkJx")
